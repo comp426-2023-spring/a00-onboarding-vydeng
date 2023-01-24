@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin vivians-air-2.wireless-1x.unc.edu 22.2.0 Darwin Kernel Version 22.2.0: Fri Nov 11 02:08:47 PST 2022; root:xnu-8792.61.2~4/RELEASE_X86_64 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/local/bin/git] git version 2.30.1
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 9.0 (2022 Jun 28, compiled Nov  5 2022 00:18:29)
+CURL:	[/usr/bin/curl] curl 7.85.0 (x86_64-apple-darwin22.0) libcurl/7.85.0 (SecureTransport) LibreSSL/3.3.6 zlib/1.2.11 nghttp2/1.47.0
+NODE:	[/Users/viviandeng/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
